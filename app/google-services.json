@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "530412547428",
+    "firebase_url": "https://travis-b-howard-scholarship.firebaseio.com",
+    "project_id": "travis-b-howard-scholarship",
+    "storage_bucket": "travis-b-howard-scholarship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530412547428:android:10c917211b3dffb7",
+        "android_client_info": {
+          "package_name": "com.example.newmadridcountycentralhighschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530412547428-a722m3f6i827k27kdh94ruf18m4osdck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newmadridcountycentralhighschool",
+            "certificate_hash": "c432c49e5ccbfc043c2377fa92c1d963d5c2048e"
+          }
+        },
+        {
+          "client_id": "530412547428-67ko6flje64faf11svgfcsjuh31n5dqs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACneyiQjiwRc2amaEn1LBsUDoIeFK-38c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530412547428-67ko6flje64faf11svgfcsjuh31n5dqs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
